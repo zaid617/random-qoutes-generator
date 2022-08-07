@@ -1,4 +1,4 @@
-document.addEventListener("click",()=>{
+document.getElementById('btn').addEventListener("click",()=>{
 const quotes = [
     {
       quote:
